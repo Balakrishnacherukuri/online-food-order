@@ -1,1 +1,1 @@
-# online-food-order
+# online-food-order for the restraunts around VIT UNIVERSITY
